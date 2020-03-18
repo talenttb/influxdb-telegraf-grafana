@@ -1,1 +1,4 @@
 ./docker/influxdb/data/*
+./docker/influxdb/meta/*
+./docker/influxdb/scripts/*
+./docker/influxdb/wal/*
